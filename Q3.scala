@@ -1,4 +1,4 @@
-object Q_3 {
+object Q3 {
   def main(args: Array[String]): Unit = {
     val inputName = scala.io.StdIn.readLine("Enter the name that you want to format - ")
 
